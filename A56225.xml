@@ -169,15 +169,18 @@ in in thy latter end.</hi>
                </q>
             </p>
             <p>London, <hi>Printed by</hi> T. B. <hi>for</hi> Michael Spark, 1647.</p>
-            <figure>
-               <p>ROBERT: DAVIES
+            <p>
+               <pb facs="tcp:60652:2"/>
+               <figure>
+                  <p>ROBERT: DAVIES
 of ILannerch<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap> Denbighshire<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>
-               </p>
-            </figure>
+                        <desc>•</desc>
+                     </gap> Denbighshire<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
          </div>
       </front>
       <body>
